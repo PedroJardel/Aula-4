@@ -1,0 +1,14 @@
+>>> salarios = [2500, 3200, 2000]
+
+>>> novos_salarios = []
+
+>>> novos_salarios = [salario*1.10 for salario in salarios]
+
+>>> print(novos_salarios)
+[2750.0, 3520.0000000000005, 2200.0] 
+
+>>> salarios_top = [salario for salario in salarios if salario >= 2500] 
+
+>>> salarios_top
+[2500, 3200]
+        

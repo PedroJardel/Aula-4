@@ -1,0 +1,7 @@
+Pedro Jardel;1x1;30.0
+Pedro Jardel;2x1;30.0
+Pedro Jardel;1x2;30.0
+Ana Melo;3x3;15.0
+Testador;3x1;40.0
+Testador2;3x1;40.0
+Testador3;2x2;20.0
